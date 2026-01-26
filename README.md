@@ -15,9 +15,10 @@ The system automatically detects unsafe water, activates purification, and sends
 - Measures **pH, TDS, and temperature** continuously  
 - Displays real-time sensor values on an **OLED display**  
 - **Arduino Uno** works as the main controller  
-- Provides instant visual feedback of water condition  
+- Provides instant visual feedback of water condition
 
----
+---![photo_2026-01-20_18-39-39](https://github.com/user-attachments/assets/c3e1e575-b340-4093-bc62-d611e60fc39b)
+
 
 ### 🔹 Feature 2: Intelligent Water Safety Decision & Automatic Purification
 - Continuously evaluates water quality parameters  
