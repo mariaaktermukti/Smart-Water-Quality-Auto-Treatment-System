@@ -87,3 +87,20 @@ The OLED display shows:
 - Suitable for **smart homes and rural water systems**
 
 ---
+## 📷 Project Implementation Photographs
+
+Figure 1: pH sensor
+![photo_2026-01-28_22-27-16](https://github.com/user-attachments/assets/7f98c441-b3a8-4b8a-89da-4321ccbbb877)
+
+Figure 2: TDS sensor
+![photo_2026-01-28_22-27-17](https://github.com/user-attachments/assets/305e30a5-6e16-40b6-84c5-9d879a49a29a)
+
+Figure 3: OLED display showing real-time pH, TDS, and temperature values, overall water safety status (SAFE/UNSAFE), and automatic pump operation (ON/OFF) based on water quality conditions.
+![photo_2026-01-28_22-27-21](https://github.com/user-attachments/assets/fd00de20-298e-45aa-8ebb-87264d713dd6)
+
+Figure 4: Complete hardware setup of the Smart Water Quality Monitoring System with all integrated components.
+<img width="459" height="558" alt="new" src="https://github.com/user-attachments/assets/09cf6a55-bbf0-448d-988b-d7a84dad1819" />
+
+Figure 5: Complete system setup placed on the laboratory table, including the hardware components and laptop-based monitoring dashboard, illustrating the overall working environment of the smart water quality monitoring system.
+![photo_2026-01-28_22-27-20](https://github.com/user-attachments/assets/f293d0b8-9b27-43a6-a6eb-e87b58bcc686)
+
